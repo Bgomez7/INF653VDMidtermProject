@@ -1,0 +1,105 @@
+%YAML 1.1
+---
+# quotesdb.authors
+-
+  id: 1
+  author: "Confucious"
+-
+  id: 2
+  author: "Friedrich Nietzsche"
+-
+  id: 3
+  author: "Carl Sagan"
+-
+  id: 4
+  author: "Albert Einstein"
+-
+  id: 5
+  author: "Aristotle"
+-
+  id: 6
+  author: "Emo Philips"
+-
+  id: 7
+  author: "Steve Wozniak"
+-
+  id: 8
+  author: "Benjamin Franklin"
+-
+  id: 9
+  author: "Marcus Aurelius"
+# quotesdb.categories
+-
+  id: 1
+  category: "Science"
+-
+  id: 2
+  category: "Death"
+-
+  id: 3
+  category: "Computers"
+-
+  id: 4
+  category: "Philosophy"
+# quotesdb.quotes
+-
+  id: 1
+  quote: "Quality is not an act, it is a habit."
+  author_id: 5
+  category_id: 4
+-
+  id: 2
+  quote: "Love is composed of a single soul inhabiting two bodies."
+  author_id: 5
+  category_id: 4
+-
+  id: 3
+  quote: "It does not matter how slowly you go as long as you do not stop."
+  author_id: 1
+  category_id: 4
+-
+  id: 4
+  quote: "Life is really simple, but we insist on making it complicated."
+  author_id: 1
+  category_id: 4
+-
+  id: 5
+  quote: "To live is to suffer, to survive is to find some meaning in the suffering."
+  author_id: 2
+  category_id: 4
+-
+  id: 6
+  quote: "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology."
+  author_id: 3
+  category_id: 1
+-
+  id: 7
+  quote: "For small creatures such as we the vastness is bearable only through love."
+  author_id: 3
+  category_id: 1
+-
+  id: 8
+  quote: "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
+  author_id: 4
+  category_id: 1
+-
+  id: 9
+  quote: "A computer once beat me at chess, but it was no match for me at kick boxing."
+  author_id: 6
+  category_id: 3
+-
+  id: 10
+  quote: "Never trust a computer you can&#039;t throw out a window."
+  author_id: 7
+  category_id: 3
+-
+  id: 11
+  quote: "Some people die at 25 and aren&#039;t buried until 75."
+  author_id: 8
+  category_id: 2
+-
+  id: 12
+  quote: "Reject your sense of injury and the injury itself disappears."
+  author_id: 9
+  category_id: 2
+...
